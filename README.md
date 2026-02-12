@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Banking App
 
 A simple banking application built using Python and Streamlit.  
@@ -11,8 +10,8 @@ This app allows users to deposit, withdraw, and transfer money between accounts.
 - **Transaction History:** View past transactions for each account.
 
 ## Tech Stack
-- **Python**: Backend logic and account management.
-- **Streamlit**: Frontend for an interactive web interface.
+- Python: Backend logic and account management.
+- Streamlit: Frontend for an interactive web interface.
 
 ## Run Locally
 
@@ -33,12 +32,12 @@ This app allows users to deposit, withdraw, and transfer money between accounts.
     ```
 
 ## Screenshots
-![App Screenshot](screenshot.png)
+![App Screenshot](Images/screenshot.png)
 
 ## Contact
 If you have any questions, feel free to reach out to me at:  
-**Email:** gauravinnocent41@gmailcom  
-**GitHub:** [your-github-link](https://github.com/yourusername)
+Email: gauravinnocent41@gmail.com  
+GitHub: (https://github.com/kaintsahib)
 =======
 # banking_app
 A simple banking app built with Python and Streamlit, allows deposit, withdrawal, transfer, and transaction history viewing.
