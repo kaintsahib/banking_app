@@ -17,7 +17,7 @@ This app allows users to deposit, withdraw, and transfer money between accounts.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/banking_app.git
+    git clone https://github.com/kaintsahib/banking_app.git
     cd banking_app
     ```
 
